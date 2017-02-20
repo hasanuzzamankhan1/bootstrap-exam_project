@@ -1,0 +1,414 @@
+
+body{
+	
+  	margin-top: 0;
+  	margin-bottom: 35px;
+  	font-size: 14px;
+  	font-family: sans-serif;
+}
+
+i{
+	color: #42B061; 
+}
+
+.social-link i{
+	color: #EDEDED;
+}
+
+.social-link i:hover{
+	color: #42B061;
+}
+
+.singin a{
+	text-decoration: none;
+}
+
+.singin a{
+	color: #000;
+}
+
+.singin a:hover{
+	color: #42B061;
+}
+
+img{
+	display: inline-block;
+}
+
+.people-say{
+	padding: 0px 0px;
+	background:url(../images/testimonial_bg.png); 
+}
+
+.header{
+	padding: 15px 0px; 
+}
+
+.header-top{
+	padding: 5px 10px;
+	background: #F8F8F8;
+}
+
+.slider-caption{
+	max-width: 50%;
+	text-align: left;
+}
+
+.btn{
+	background:#42B061;  
+}
+
+.btn:hover{
+	background:#F8F8F8;
+	color: #42B061;  
+}
+
+.slider-caption h2{
+	color: #42B061;
+	font-family: ;
+	text-align: left;
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 26px;
+	font-weight: 900;
+}
+
+.slider-caption h3{
+	color: #fff;
+	text-align: left;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 30px;
+}
+
+.slider-caption h6{
+	color: #fff;
+}
+
+.about-webcode{
+	padding: 30px 30px;
+}
+
+.about-web1{
+	text-align: left;
+}
+.about-web{
+	
+}
+
+.about-web h2{
+	font-size: 18px;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.about-web p{
+	padding: 0px 40px;
+}
+
+.about-web1 h3{
+	
+	font-size: 14px;
+	color: #42B061;
+	font-weight: 900;
+}
+
+.about-web1 h5{
+	font-size: 12px;
+}
+
+.about-web1 p{
+	text-align: left;
+	font-size: 12px;
+}
+
+.Recent-course{
+	background: #F8F8F8;
+	padding-top: 20px;
+}
+
+.Recent-cor{
+	padding: 0px 40px;
+}
+
+.Recent-cor h2{
+	font-weight: 900;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.Recent-cor h3{
+	font-weight: 900;
+	font-size: 16px;
+}
+
+.Recent-cor h5{
+	font-size: 12px;
+}
+
+.Recent-cor i{
+	color: #000;
+	max-width: 160px;
+}
+
+.Recent-cor .thumbnail{
+	background: #F8F8F8;
+	text-decoration: none;
+	padding: 60px 0px;
+	border: 4px solid #fff;
+	color: #000;
+}
+
+.Recent-cor .thumbnail:hover{
+	text-decoration: none;
+	padding: 60px 0px;
+	color: #42B061;
+	border: 4px solid #fff;
+}
+
+.WebCode-Gallery{
+	padding: 20px;
+
+}
+
+.WebCode{
+	
+}
+
+.WebCode h2{
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 900;
+}
+
+.WebCode p{
+	font-size: 12px;
+}
+
+.nav-tab{
+	text-transform: uppercase;
+	padding: 10px 250px;
+	color: #000;
+}
+
+/*.nav h5{
+	text-transform: uppercase;
+	color: #42B061;
+	position: relative;
+}
+
+.nav h5:after{
+	position: absolute;
+	content:"_";
+	width:0;
+	height:5px;
+	left: 0;
+	bottom:-4px;
+	background: #42B061;
+	transition:all 0.8s ease;
+}
+*/
+/*.nav-tab:hover .nav h5:after{
+	width: 70px;
+}*/
+
+.gallery button{
+	margin-top: 0px 5px;
+}
+
+.WebCode-Offer{
+	padding: 20px;
+	background: #F8F8F8;
+}
+
+.WebCode-off h2{
+	font-size: 18px;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.WebCode-off p{
+	font-size: 12px;
+	font-weight: 900;
+}
+
+.WebCode-off h5{
+	font-size: 12px;
+	font-weight: 900;
+}
+
+.OUR-RESOURCE{
+	padding: 20px;
+
+}
+
+.OUR-RESOURCE h2{
+	font-size: 18px;
+	font-weight: 900;
+}
+
+.OUR-RESOURCE h3{
+	font-size: 16px;
+	font-weight: 900;
+}
+
+.OUR-RESOURCE p{
+	font-size: 12px;
+}
+
+.OUR-RESOURCE h5{
+	font-size: 12px;
+}
+
+.people-say h2{
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.Our-Latest{
+	padding: 20px 0px;
+	
+}
+
+.Our-Latest1{
+
+}
+
+.Our-Latest1 h2{
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.read-me{
+	text-align: left;
+	background: #F8F8F8;
+}
+
+.icon{
+	text-align: left;
+}
+.read-me h3{
+	font-weight: 900;
+	font-size: 14px;
+	text-align: left;
+}
+
+.read-me h5{
+	font-size:12px;
+	text-align: left;
+}
+
+.read-me a{
+	text-decoration: none;
+	padding: 5px 12px;
+	border:2px solid #42B061;
+	text-align: left;
+	color: #42B061;
+}
+
+.read-me a:hover{
+	text-decoration: none;
+	padding: 5px 12px;
+	background: #42B061;
+	text-align: left;
+	color: #fff;
+}
+.Our-Client{
+	padding: 20px 0px;
+	background: #F8F8F8;
+}
+
+.Client-Logo a{
+	
+}
+
+.Client-Logo a:hover{
+	color: transparent;
+}
+
+.Client-Logo h2{
+	font-size: 18px;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.Contact-Us{
+	padding: 20px 0px;
+}
+
+.contact{
+	padding: 40px 20px;
+	border:1px solid #fff;
+	background: #F8F8F8;
+}
+
+.Contact h2{
+	font-size: 18px;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.contcat-form{
+	
+}
+
+.contcat-form input {
+	margin: 10px 5px;
+}
+
+.recent-blog{
+
+}
+
+.recent-blog h2{
+	font-size: 18px;
+	font-weight: 900;
+	color: #42B061;
+	text-transform: uppercase;
+}
+
+.blog1{
+
+}
+
+.blog1 img{
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.instagram h2{
+	font-size: 18px;
+	font-weight: 900;
+	color: #42B061;
+	text-transform: uppercase;
+}
+
+.instagram img{
+	max-width: 80px;
+	max-height: 80px;
+}
+
+.left-content{
+	max-width: 50%;
+}
+
+.right-content{
+
+}
+
+.right-content p{
+	
+}
+
+.footer-top{
+	padding-top: 20px;
+
+	background:#F8F8F8;
+}
+
+.footer{
+	padding: 40px 0px;
+	background:#F8F8F8;
+}
